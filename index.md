@@ -9,3 +9,6 @@ fn main() {
   println!("HI!");
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
